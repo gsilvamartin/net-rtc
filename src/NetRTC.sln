@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetRTC.Signaling", "NetRTC.Signaling\NetRTC.Signaling.csproj", "{EBA31B12-84B3-4880-90A7-83E466D814CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBA31B12-84B3-4880-90A7-83E466D814CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA31B12-84B3-4880-90A7-83E466D814CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA31B12-84B3-4880-90A7-83E466D814CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA31B12-84B3-4880-90A7-83E466D814CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
